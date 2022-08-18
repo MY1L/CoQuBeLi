@@ -1,0 +1,20 @@
+$30 $FE00 zer0
+# 、。，．
+$3001 $FE01 comma.ideo
+$3002 $FE01 fullstop.ideo
+$FF0C $FE01 comma.fwid
+$FF0E $FE01 middot.fwid
+# ！：；
+$FF01 $FE00 exclam.vert
+$FF01 $FE01 exclam.fwid
+$FF1A $FE00 colon.vert
+$FF1A $FE01 colon.fwid
+$FF1B $FE00 semicolon.vert
+$FF1B $FE01 semicolon.fwid
+# 兼容汉字
+$5168 $FE00 5168 #全
+$516D $FE00 516D #六
+$66B4 $FE00 66B4 #暴
+$7891 $FE00 254D3 #碑
+$91CC $FE00 91CC #里
+$96B7 $FE00 96B7 #隷
